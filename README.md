@@ -19,6 +19,7 @@ Currently, I am seeking opportunities to apply my skills and knowledge in a prac
     <h3>Tech Skills:</h3>
     <hr></hr>
  </div>
+ 
   ```js
     const tech = {
         code: {
