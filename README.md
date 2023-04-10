@@ -15,17 +15,22 @@ Currently, I am seeking opportunities to apply my skills and knowledge in a prac
  </div>
  
  
-  ```js
-  const tech = {
-    code: {
-      languages: [ "JavaScript", "Python", "C" ],
-      database: [ "PostgreSQL" ],
-      backEnd: [ "NodeJs", "Express", "Sequelize", "C#" ],
-      frontEnd: [ "React", "Redux", "Hooks", "Tailwind", "CSS modules" ],
-      deploy: [ "Vercel", "Railway" ],
-    },
-    contact: {
-      email: "martin_couadeau1@hotmail.com"
-    }
-  };
-  ```
+ <div>
+    <h3>Tech Skills:</h3>
+    <hr></hr>
+    ```js
+    const tech = {
+        code: {
+          languages: [ "JavaScript", "Python", "C" ],
+          database: [ "PostgreSQL" ],
+          backEnd: [ "NodeJs", "Express", "Sequelize", "C#" ],
+          frontEnd: [ "React", "Redux", "Hooks", "Tailwind", "CSS modules" ],
+          deploy: [ "Vercel", "Railway" ],
+        },
+        contact: {
+          email: "martin_couadeau1@hotmail.com"
+        }
+    };
+    ```
+ </div>
+
