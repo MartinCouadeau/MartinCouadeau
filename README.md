@@ -6,7 +6,7 @@
     <h3>About me:</h3>
     <hr></hr>
     <p>
-  I am a Full Stack developer looking for opportunities to grow and develop in the programming field.
+  I am a Full Stack developer and Back-End Specialist looking for opportunities to grow and develop in the programming field.
     
 I am passionate about programming and always strive to learn more and improve my skills in this area. I consider myself a good team player and have effective communication skills that allow me to work well with other developers and collaborate on projects.
     
