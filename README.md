@@ -24,10 +24,11 @@ Currently, I am seeking opportunities to apply my skills and knowledge in a prac
     const tech = {
         code: {
           languages: [ "JavaScript", "Python", "C" ],
-          database: [ "PostgreSQL" ],
+          database: [ "PostgreSQL", "MongoDB" ],
           backEnd: [ "NodeJs", "Express", "Sequelize", "C#" ],
           frontEnd: [ "React", "Redux", "Hooks", "Tailwind", "CSS modules" ],
           deploy: [ "Vercel", "Railway" ],
+          virtualization: [ "Docker" ],
         },
         contact: {
           email: "martin_couadeau1@hotmail.com"
